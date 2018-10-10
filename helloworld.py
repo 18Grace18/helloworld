@@ -1,2 +1,2 @@
 Helloworld.py
-print("yo yo sup")
+print("Sup dawg? ' w '")

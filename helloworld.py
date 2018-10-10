@@ -1,2 +1,1 @@
-Helloworld.py
-print("yo yo sup")
+print("yo sup")
